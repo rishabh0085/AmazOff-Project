@@ -31,6 +31,7 @@ Follow the specified naming conventions for classes (e.g., OrderController.java,
 6. Time Handling:
 
 Pay attention to handling time formats, especially when passing or returning time information.
+
 7. Deletion Logic:
 
 Implement logic to unassign orders when deleting a partner and vice versa.
