@@ -39,3 +39,7 @@ Implement logic to unassign orders when deleting a partner and vice versa.
 8. Documentation:
 
 The project aims to demonstrate a functional Spring Boot application for managing delivery orders and partners with specified CRUD operations and API endpoints.
+
+#Tech-Stack Used
+
+Java, SpringBoot Framework, REST API, HashMap for Database, OOPS .
